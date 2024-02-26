@@ -5,4 +5,4 @@ MAINTAINER confr pal <automation.a357694@uach.mx>
 
 RUN apt-get update
 
-CMD ["echo", "Ahorcado.py"]
+CMD Ahorcado.py
